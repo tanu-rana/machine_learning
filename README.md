@@ -1,4 +1,4 @@
-MACHINE LEARNING (Coursera)
+#MACHINE LEARNING (Coursera)
 
 This repo contains Weekly problems from the Machine Learning course by Andrew Ng
 
